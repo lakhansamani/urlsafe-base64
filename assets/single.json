@@ -1,0 +1,25 @@
+[{
+	"name": "geolocation data",
+	"id": 1,
+	"temp": 2,
+	"place": {
+		"city": "New York",
+		"country": "United States"
+	},
+	"locationJson": {
+		"lat": 40.3,
+		"lon": -74
+	}
+}, {
+	"name": "geolocation data",
+	"id": "geo-1",
+	"temp": "2",
+	"place": {
+		"city": "New York",
+		"country": "United States"
+	},
+	"locationJson": {
+		"lat": 40.3,
+		"lon": -74
+	}
+}]
