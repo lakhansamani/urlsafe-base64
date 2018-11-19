@@ -1,5 +1,5 @@
 {
-  "name": "urlsafe-base64",
+  "name": "@lakhansamani/urlsafe-base64",
   "version": "1.0.0",
   "description": "To safely encode and decode buffer objects",
   "main": "index.js",
